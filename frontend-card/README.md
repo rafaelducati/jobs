@@ -16,7 +16,7 @@
 
 ## Instruções para visualização:
 
-1. Abra o terminal de sua escolha e baixe o repositório através do comando git clone git@github.com:rafaelducati/jobs.git
+1. Abra o terminal de sua escolha e baixe o repositório através do comando **git clone git@github.com:rafaelducati/jobs.git**
 2. Acesse a pasta **frontend-card**
 3. Na pasta frontend-card, abra o console e digite **npm install** para instalar as dependências.
 4. Após o término da instalação, ainda no console digite **npm start** para inicializar o projeto.
