@@ -16,11 +16,11 @@
 
 ## Instruções para visualização:
 
-1. Abra o terminal de sua escolha e baixe o repositório através do comando git clone
-2. Acesse a pasta do projeto utilizando o comando frontend-card
-3. Na pasta frontend-card, abra o console e digite npm install para instalar as dependências.
-4. Após o término da instalação, ainda no console digite npm start para inicializar o projeto.
-5. Após a inicialização, acesse http://localhost:3000/ em seu browser preferido para visualizar o projeto.
+1. Abra o terminal de sua escolha e baixe o repositório através do comando git clone git@github.com:rafaelducati/jobs.git
+2. Acesse a pasta **frontend-card**
+3. Na pasta frontend-card, abra o console e digite **npm install** para instalar as dependências.
+4. Após o término da instalação, ainda no console digite **npm start** para inicializar o projeto.
+5. Após a inicialização, acesse **http://localhost:3000/** em seu browser preferido para visualizar o projeto.
 
 ## Possíveis melhorias gerais: design apresentado
 
