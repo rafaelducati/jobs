@@ -9,7 +9,7 @@
 - React Hooks ao invés de uso de Javascript classes e seu lifecycle.
 - Gerenciamento de estados global via Context API.
 - Organização de componentes para cada elemento interno do cartão.
-- React CSS Transition, React Swith Transition e React Transition Group para as animações de interação nos elementos.
+- React CSS Transition, React Switch Transition e React Transition Group para as animações de interação nos elementos.
 - Em contrapartida à componentização, ao invés de utilizar CSS-in-JS foram utilizado poucos arquivos de estilização no formato SCSS, com adoção de uma abordagem mista de BEM e SMACSS.
 - Utilização do pacote Create React App como base do projeto.
 - Modo responsivo sem background azul de fundo presente no desktop, para otimização do espaço e UI minimalista.
